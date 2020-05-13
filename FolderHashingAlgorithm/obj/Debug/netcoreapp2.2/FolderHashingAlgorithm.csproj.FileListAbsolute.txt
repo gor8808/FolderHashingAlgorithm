@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\bin\Debug\netcoreapp2.2\FolderHashingAlgorithm.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\bin\Debug\netcoreapp2.2\FolderHashingAlgorithm.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\bin\Debug\netcoreapp2.2\FolderHashingAlgorithm.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\bin\Debug\netcoreapp2.2\FolderHashingAlgorithm.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\bin\Debug\netcoreapp2.2\FolderHashingAlgorithm.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\FolderHashingAlgorithm\FolderHashingAlgorithm\obj\Debug\netcoreapp2.2\FolderHashingAlgorithm.pdb
